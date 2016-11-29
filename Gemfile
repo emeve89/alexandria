@@ -6,6 +6,7 @@ gem 'puma', '~> 3.0'
 
 gem 'carrierwave'
 gem 'carrierwave-base64'
+gem 'kaminari'
 
 group :development, :test do
   gem 'byebug', platform: :mri
